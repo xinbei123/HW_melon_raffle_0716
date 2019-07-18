@@ -1,0 +1,5 @@
+customers.txt
+env/
+__pycache__/
+customers.txt
+.DS_Store
