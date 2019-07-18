@@ -3,3 +3,5 @@ env/
 __pycache__/
 customers.txt
 .DS_Store
+version2/__pycache__/
+version2/customers.txt
